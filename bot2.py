@@ -16,7 +16,7 @@ async def hello(ctx):
 
 @bot.command()
 async def weekend(ctx):
-    await ctx.send(f'Hi aku {bot.user}, kamu kok hari sabtu malah les koding, gak liburan aja?')
+    await ctx.send(f'Hi aku {bot.user}, liburan dong ajak aku')
 
 @bot.command()
 async def heh(ctx, count_heh = 5):
