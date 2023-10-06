@@ -1,6 +1,7 @@
 import discord
 from bot_logic import gen_pass
 
+# uji coba edit file di github
 # Variabel intents menyimpan hak istimewa bot
 intents = discord.Intents.default()
 # Mengaktifkan hak istimewa message-reading
